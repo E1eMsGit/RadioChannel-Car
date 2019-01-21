@@ -1,1 +1,2 @@
-syntax=Arduino
+* linguist-vendored
+*.ino linguist-vendored=false
